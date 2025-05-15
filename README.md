@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/legm0310.svg?extraCount=1102&color=23E7E7E7)](https://hits.sh/github.com/legm0310/)
+[![Hits](https://hits.sh/github.com/legm0310.svg?view=today-total&extraCount=1102&color=23E7E7E7)](https://hits.sh/github.com/legm0310/)
 
 <p align="center">
     <a href="https://solved.ac/legm0310">
